@@ -17,18 +17,6 @@ $ php bin/php-cs-fixer fix ./src
 $ ./bin/phpunit --coverage-html build/coverage
 ```
 
-### Check your code coverage ( Xdebug need to be installed ):
-
-```bash
-$ ./bin/phpunit --coverage-html build/coverage
-```
-
-### Check your code coverage ( Xdebug need to be installed ):
-
-```bash
-$ ./bin/phpunit --coverage-html build/coverage
-```
-
 ### Unit test your application
 
 ```bash
