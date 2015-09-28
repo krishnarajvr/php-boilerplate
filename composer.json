@@ -1,0 +1,25 @@
+{
+    "name": "krishnarajvr/php-login",
+    "description": "Loging service example for php.",
+    "keywords": ["boilerplate", "login"],
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.6",
+        "fabpot/php-cs-fixer": "~1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Impelsys\\DemoLib\\": "src/Impelsys/DemoLib"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Impelsys\\DemoLib\\": "tests"
+        }
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}

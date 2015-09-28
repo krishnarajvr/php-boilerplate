@@ -1,0 +1,9 @@
+/bin/
+/build/
+/vendor/
+/docs/
+/build/
+/tmp/
+/composer.lock
+/sami.phar
+/1
